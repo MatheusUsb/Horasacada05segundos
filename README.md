@@ -2,4 +2,4 @@
 
 # Git clone:
 
-git@github.com:MatheusUsb/Horasacada05segundos.git
+[git@github.com:MatheusUsb/Horasacada05segundos.git](https://github.com/MatheusUsb/Horasacada05segundos.git)
